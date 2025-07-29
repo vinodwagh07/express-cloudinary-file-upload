@@ -1,4 +1,3 @@
-
 ## 🚀 Tech Stack
 
 <p align="left">
@@ -9,4 +8,5 @@
   <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" alt="Cloudinary" />
   <img src="https://img.shields.io/badge/express--fileupload-00C7B7?style=for-the-badge&logo=npm&logoColor=white" alt="express-fileupload" />
   <img src="https://img.shields.io/badge/dotenv-222222?style=for-the-badge&logo=dotenv&logoColor=white" alt="dotenv" />
+  <img src="https://img.shields.io/badge/Nodemailer-0a0a0a?style=for-the-badge&logo=nodemailer&logoColor=white" alt="Nodemailer" />
 </p>
